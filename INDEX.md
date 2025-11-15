@@ -114,7 +114,6 @@ jml/
             ├── 1_metrics_comparison.png
             ├── 2_radar_comparison.png
             ├── 3_improvement_baseline.png
-            ├── 4_dashboard.png
             └── 5_ranking_analysis.png
 ```
 
@@ -283,4 +282,5 @@ A: See README.md "References & Further Reading" section
 **Last Updated:** November 15, 2025  
 **Maintainer:** Research Team  
 **Version:** 1.0 Final
+
 
