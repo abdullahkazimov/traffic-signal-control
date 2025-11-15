@@ -1,0 +1,12 @@
+{
+  "method": "ULTIMATE-HYBRID",
+  "metrics": {
+    "avg_travel_time": 18365.388273125,
+    "avg_queue_length": 27.7169109375,
+    "avg_waiting_time": 12168.3029675,
+    "avg_speed": 3.842463359375016,
+    "throughput": 4287082,
+    "total_delay": 1953397.8863
+  },
+  "time": 15.310606241226196
+}

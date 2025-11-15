@@ -1,0 +1,12 @@
+{
+  "method": "Longest-Queue-First",
+  "metrics": {
+    "avg_travel_time": 18267.6007228125,
+    "avg_queue_length": 25.9881790625,
+    "avg_waiting_time": 12105.416243125,
+    "avg_speed": 4.1017731406249895,
+    "throughput": 3577868,
+    "total_delay": 1942782.8162
+  },
+  "time": 9.209303379058838
+}

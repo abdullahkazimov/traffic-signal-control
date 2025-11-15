@@ -1,0 +1,12 @@
+{
+  "method": "Max-Pressure",
+  "metrics": {
+    "avg_travel_time": 17990.6013853125,
+    "avg_queue_length": 20.8350875,
+    "avg_waiting_time": 11927.620806875,
+    "avg_speed": 4.874736875000038,
+    "throughput": 3629321,
+    "total_delay": 1912686.5571
+  },
+  "time": 9.4046471118927
+}

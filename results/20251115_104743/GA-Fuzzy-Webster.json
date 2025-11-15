@@ -1,0 +1,12 @@
+{
+  "method": "GA-Fuzzy-Webster",
+  "metrics": {
+    "avg_travel_time": 18651.337225,
+    "avg_queue_length": 36.324934375,
+    "avg_waiting_time": 12347.4582375,
+    "avg_speed": 2.551259843750054,
+    "throughput": 2366210,
+    "total_delay": 1984817.297
+  },
+  "time": 10.226659297943115
+}

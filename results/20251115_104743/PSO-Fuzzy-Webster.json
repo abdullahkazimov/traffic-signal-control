@@ -1,0 +1,12 @@
+{
+  "method": "PSO-Fuzzy-Webster",
+  "metrics": {
+    "avg_travel_time": 18667.14382015625,
+    "avg_queue_length": 37.0531209375,
+    "avg_waiting_time": 12357.0250521875,
+    "avg_speed": 2.4420318593749832,
+    "throughput": 2461970,
+    "total_delay": 1986581.00705
+  },
+  "time": 10.33931565284729
+}

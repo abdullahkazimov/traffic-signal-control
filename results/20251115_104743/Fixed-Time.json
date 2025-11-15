@@ -1,0 +1,12 @@
+{
+  "method": "Fixed-Time",
+  "metrics": {
+    "avg_travel_time": 37669.5994396875,
+    "avg_queue_length": 38.8373178125,
+    "avg_waiting_time": 25022.949869375,
+    "avg_speed": 2.1744023281249647,
+    "throughput": 1946020,
+    "total_delay": 4013699.9208
+  },
+  "time": 8.901126146316528
+}
