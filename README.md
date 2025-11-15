@@ -534,5 +534,3 @@ Special thanks to all contributors and the traffic signal control research commu
 
 ---
 
-*For your professor: All plots are publication-ready, metrics are rigorously tested, and the ULTIMATE-HYBRID approach demonstrates significant improvements across all key performance indicators. Ready for presentation and submission! 📊🎓*
-
