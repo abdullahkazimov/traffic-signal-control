@@ -62,7 +62,7 @@ class ResultsVisualizer:
         self.plot_improvement_bars()
         
         # 4. Key metrics dashboard
-        self.plot_dashboard()
+        # self.plot_dashboard()
         
         # 5. Performance ranking
         self.plot_ranking()
@@ -499,4 +499,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
