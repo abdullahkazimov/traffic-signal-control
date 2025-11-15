@@ -28,7 +28,6 @@ All professional plots are ready in: `results/20251115_104743/plots/`
 
 ### Step 1: Install Dependencies
 ```bash
-cd jml
 pip install numpy matplotlib
 ```
 
@@ -163,4 +162,5 @@ A: The adaptive PSO component continuously learns and adjusts. In our tests, it 
 
 **Prepared:** November 15, 2025  
 **Status:** ✅ Presentation-Ready
+
 
